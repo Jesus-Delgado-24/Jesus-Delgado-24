@@ -56,4 +56,3 @@ Engineer focused on developing scalable and efficient software. I have experienc
 
 ### 📫 Contact Me
 - **Email:** [delgado24.dv@gmail.com](mailto:delgado24.dv@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
