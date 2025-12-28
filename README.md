@@ -48,9 +48,9 @@ Engineer focused on developing scalable and efficient software. I have experienc
 
 ### 📊 GitHub Stats
 
-![Jesus' Stats](https://github-readme-stats.vercel.app/api?username=Jesus-Delgado-24&show_icons=true&theme=radical)
+![Jesus Stats](https://github-readme-stats-one.vercel.app/api?username=Jesus-Delgado-24&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Delgado-24&layout=compact&theme=radical)
+![Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Jesus-Delgado-24&layout=compact&theme=radical)
 
 ---
 
