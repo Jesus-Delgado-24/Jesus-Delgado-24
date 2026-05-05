@@ -1,12 +1,12 @@
 # Hi there! I'm Jesús Delgado Valenzuela 👋
 
 ### 👨‍💻 Full Stack Developer | Systems Engineer
-[cite_start]Systems Engineer focused on building modern, high-performance web applications[cite: 7, 19]. [cite_start]I specialize in creating intuitive user interfaces and robust data architectures, moving seamlessly between frontend aesthetics and backend logic[cite: 8, 9].
+Systems Engineer focused on building modern, high-performance web applications[cite: 1]. I specialize in creating intuitive user interfaces and robust data architectures, moving seamlessly between frontend aesthetics and backend logic[cite: 1].
 
-- [cite_start]🎓 **B.S. in Computer Systems Engineering** - Titulado (Enero 2026)[cite: 19, 22].
-- [cite_start]🏢 **Currently at IT Soluciones** - Developing custom web platforms with SvelteKit and TypeScript[cite: 5, 7].
-- [cite_start]📍 Gomez Palacio, Durango, Mexico[cite: 2].
-- [cite_start]🗣️ **English:** Technical proficiency for documentation and development[cite: 30].
+- 🎓 **B.S. in Computer Systems Engineering** - Graduated (January 2026)[cite: 1].
+- 🏢 **Currently at IT Soluciones** - Developing custom web platforms with SvelteKit and TypeScript[cite: 1].
+- 📍 Gomez Palacio, Durango, Mexico[cite: 1].
+- 🗣️ **English:** Technical proficiency for documentation and development[cite: 1].
 
 ---
 
@@ -28,27 +28,27 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 
 **Additional Languages & Tools**
-- [cite_start]**Languages:** C#, Java, Python, JavaScript[cite: 24].
-- [cite_start]**Backend Tech:** EF Core, LINQ, REST APIs[cite: 28].
-- [cite_start]**Design/Planning:** Figma (UI/UX) and draw.io for technical architecture[cite: 27].
-- [cite_start]**Industrial/Other:** Ignition (SCADA) and PLC data parsing[cite: 16, 17].
+- **Languages:** C#, Java, Python, JavaScript[cite: 1].
+- **Backend Tech:** EF Core, LINQ, REST APIs[cite: 1].
+- **Design/Planning:** Figma (UI/UX) and draw.io for technical architecture[cite: 1].
+- **Industrial/Other:** Ignition (SCADA) and PLC data parsing[cite: 1].
 
 ---
 
 ### 💼 Professional Experience
 
-* **IT Soluciones** | [cite_start]*Software Developer* (Marzo 2026 - Actualidad) 
-    * [cite_start]Developing high-quality web platforms using **SvelteKit** and **TypeScript**[cite: 7].
-    * [cite_start]Implementing modern, responsive UI/UX with **Tailwind CSS** and **Flowbite**[cite: 8].
-    * [cite_start]Designing and managing complex **MongoDB** data architectures for agile information retrieval[cite: 9].
+* **IT Soluciones** | *Software Developer* (March 2026 - Present)[cite: 1]
+    * Developing high-quality web platforms using **SvelteKit** and **TypeScript**[cite: 1].
+    * Implementing modern, responsive UI/UX with **Tailwind CSS** and **Flowbite**[cite: 1].
+    * Designing and managing complex **MongoDB** data architectures for agile information retrieval[cite: 1].
 
-* **HerculT** | [cite_start]*Software Development Intern* (Jun 2025 - Oct 2025) [cite: 15]
-    * [cite_start]Built an on-premise server with **Node.js** to parse **PLC** data[cite: 16, 17].
-    * [cite_start]Connected industrial systems (Ignition) with web applications via custom APIs[cite: 17, 18].
+* **HerculT** | *Software Development Intern* (June 2025 - October 2025)[cite: 1]
+    * Built an on-premise server with **Node.js** to parse **PLC** data[cite: 1].
+    * Connected industrial systems (Ignition) with web applications via custom APIs[cite: 1].
 
-* **Grupo Surman** | [cite_start]*IT Processes Intern* (Sep 2025 - Dic 2025) [cite: 10, 11]
-    * [cite_start]Managed user accounts and resolved technical tickets[cite: 12, 13].
-    * [cite_start]Documented internal system processes and created technical manuals[cite: 14].
+* **Grupo Surman** | *IT Processes Intern* (September 2025 - December 2025)[cite: 1]
+    * Managed user accounts and resolved technical tickets[cite: 1].
+    * Documented internal system processes and created technical manuals[cite: 1].
 
 ---
 
@@ -61,5 +61,5 @@
 ---
 
 ### 📫 Contact Me
-- [cite_start]**Email:** [delgado24.dv@gmail.com](mailto:delgado24.dv@gmail.com) [cite: 3]
+- **Email:** [delgado24.dv@gmail.com](mailto:delgado24.dv@gmail.com)[cite: 1]
 - **GitHub:** [Jesus-Delgado-24](https://github.com/Jesus-Delgado-24)
