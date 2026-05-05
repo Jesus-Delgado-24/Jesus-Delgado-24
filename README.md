@@ -10,6 +10,11 @@ Systems Engineer focused on building modern, high-performance web applications. 
 
 ---
 
+### 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jesus-Delgado-24&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Frontend & Design**
@@ -53,9 +58,6 @@ Systems Engineer focused on building modern, high-performance web applications. 
     * Documented internal system processes and created technical manuals.
 
 ---
-
-### 🗓️ GitHub Activity
-[![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=Jesus-Delgado-24&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 GitHub Stats
 ![Jesus Stats](https://github-readme-stats-one.vercel.app/api?username=Jesus-Delgado-24&show_icons=true&theme=radical)
