@@ -1,12 +1,12 @@
 # Hi there! I'm Jesús Delgado Valenzuela 👋
 
 ### 👨‍💻 Full Stack Developer | Systems Engineer
-Systems Engineer focused on building modern, high-performance web applications[cite: 1]. I specialize in creating intuitive user interfaces and robust data architectures, moving seamlessly between frontend aesthetics and backend logic[cite: 1].
+Systems Engineer focused on building modern, high-performance web applications. I specialize in creating intuitive user interfaces and robust data architectures, moving seamlessly between frontend aesthetics and backend logic.
 
-- 🎓 **B.S. in Computer Systems Engineering** - Graduated (January 2026)[cite: 1].
-- 🏢 **Currently at IT Soluciones** - Developing custom web platforms with SvelteKit and TypeScript[cite: 1].
-- 📍 Gomez Palacio, Durango, Mexico[cite: 1].
-- 🗣️ **English:** Technical proficiency for documentation and development[cite: 1].
+- 🎓 **B.S. in Computer Systems Engineering** - Graduated (January 2026).
+- 🏢 **Currently at IT Soluciones** - Developing custom web platforms with SvelteKit and TypeScript.
+- 📍 Gomez Palacio, Durango, Mexico.
+- 🗣️ **English:** Technical proficiency for documentation and development.
 
 ---
 
@@ -28,27 +28,27 @@ Systems Engineer focused on building modern, high-performance web applications[c
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 
 **Additional Languages & Tools**
-- **Languages:** C#, Java, Python, JavaScript[cite: 1].
-- **Backend Tech:** EF Core, LINQ, REST APIs[cite: 1].
-- **Design/Planning:** Figma (UI/UX) and draw.io for technical architecture[cite: 1].
-- **Industrial/Other:** Ignition (SCADA) and PLC data parsing[cite: 1].
+- **Languages:** C#, Java, Python, JavaScript.
+- **Backend Tech:** EF Core, LINQ, REST APIs.
+- **Design/Planning:** Figma (UI/UX) and draw.io for technical architecture.
+- **Industrial/Other:** Ignition (SCADA) and PLC data parsing.
 
 ---
 
 ### 💼 Professional Experience
 
-* **IT Soluciones** | *Software Developer* (March 2026 - Present)[cite: 1]
-    * Developing high-quality web platforms using **SvelteKit** and **TypeScript**[cite: 1].
-    * Implementing modern, responsive UI/UX with **Tailwind CSS** and **Flowbite**[cite: 1].
-    * Designing and managing complex **MongoDB** data architectures for agile information retrieval[cite: 1].
+* **IT Soluciones** | *Software Developer* (March 2026 - Present)
+    * Developing high-quality web platforms using **SvelteKit** and **TypeScript**.
+    * Implementing modern, responsive UI/UX with **Tailwind CSS** and **Flowbite**.
+    * Designing and managing complex **MongoDB** data architectures for agile information retrieval.
 
-* **HerculT** | *Software Development Intern* (June 2025 - October 2025)[cite: 1]
-    * Built an on-premise server with **Node.js** to parse **PLC** data[cite: 1].
-    * Connected industrial systems (Ignition) with web applications via custom APIs[cite: 1].
+* **HerculT** | *Software Development Intern* (June 2025 - October 2025)
+    * Built an on-premise server with **Node.js** to parse **PLC** data.
+    * Connected industrial systems (Ignition) with web applications via custom APIs.
 
-* **Grupo Surman** | *IT Processes Intern* (September 2025 - December 2025)[cite: 1]
-    * Managed user accounts and resolved technical tickets[cite: 1].
-    * Documented internal system processes and created technical manuals[cite: 1].
+* **Grupo Surman** | *IT Processes Intern* (September 2025 - December 2025)
+    * Managed user accounts and resolved technical tickets.
+    * Documented internal system processes and created technical manuals.
 
 ---
 
@@ -61,5 +61,5 @@ Systems Engineer focused on building modern, high-performance web applications[c
 ---
 
 ### 📫 Contact Me
-- **Email:** [delgado24.dv@gmail.com](mailto:delgado24.dv@gmail.com)[cite: 1]
+- **Email:** [delgado24.dv@gmail.com](mailto:delgado24.dv@gmail.com)
 - **GitHub:** [Jesus-Delgado-24](https://github.com/Jesus-Delgado-24)
