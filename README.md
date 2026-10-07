@@ -77,7 +77,7 @@ REST APIs • Webhooks • Entity Framework Core • LINQ • shadcn/ui • Flow
 
 ## 💼 Experience
 
-### 🏢 Financiera Monet
+### 🏢 Monet Vales
 **Junior Software Developer**  
 `July 2026 - Present`
 
@@ -156,6 +156,15 @@ Industrial integration project designed to transmit PLC information to web appli
   <img 
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Delgado-24&layout=compact&hide_border=true"
+  />
+</p>
+
+### 🟩 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/Jesus-Delgado-24"
+    alt="Jesus Delgado GitHub Contribution Chart"
   />
 </p>
 
