@@ -14,7 +14,7 @@ Currently, I'm working with technologies such as **Node.js, TypeScript, Next.js 
 
 - 🎓 B.S. in **Computer Systems Engineering**
 - 💼 Currently working as a **Junior Software Developer**
-- 📍 Gómez Palacio, Durango, Mexico
+- 📍 Torreón, Coahuila, Mexico
 - ⚙️ Interested in **Web Development, Backend Development, APIs, Automation and System Integration**
 - 🗄️ Experience working with relational and NoSQL databases
 - 🔌 Experience integrating web applications with external APIs and industrial systems
