@@ -161,12 +161,9 @@ Industrial integration project designed to transmit PLC information to web appli
 
 ### 🟩 Contribution Activity
 
-<p align="center">
-  <img 
-    src="https://ghchart.rshah.org/Jesus-Delgado-24"
-    alt="Jesus Delgado GitHub Contribution Chart"
-  />
-</p>
+![Jesus Stats](https://github-readme-stats-one.vercel.app/api?username=Jesus-Delgado-24&show_icons=true&theme=radical)
+
+![Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Jesus-Delgado-24&layout=compact&theme=radical)
 
 ---
 
