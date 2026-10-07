@@ -145,16 +145,18 @@ Industrial integration project designed to transmit PLC information to web appli
 `Node.js` `Ignition` `REST APIs` `PLC`
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img 
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Jesus-Delgado-24&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Jesus-Delgado-24&show_icons=true&theme=github_dark&hide_border=true"
   />
+
   <img 
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Delgado-24&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Delgado-24&layout=compact&theme=github_dark&hide_border=true"
   />
 </p>
 
@@ -162,10 +164,11 @@ Industrial integration project designed to transmit PLC information to web appli
 
 <p align="center">
   <img 
-    src="https://ghchart.rshah.org/Jesus-Delgado-24"
-    alt="Jesus Delgado GitHub Contribution Chart"
+    src="https://green-wall.leoku.dev/api/og/share/Jesus-Delgado-24?year=2026"
+    alt="Jesus Delgado GitHub Contributions 2026"
   />
 </p>
+
 ---
 
 ## 📫 Contact
